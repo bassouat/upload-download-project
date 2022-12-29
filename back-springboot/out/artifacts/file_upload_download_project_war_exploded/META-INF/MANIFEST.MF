@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: hp
+Build-Jdk: version 19.0.1
+Implementation-Title: file-upload-download-project
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.trainingfactory
+Main-Class: ${start-class}
+
