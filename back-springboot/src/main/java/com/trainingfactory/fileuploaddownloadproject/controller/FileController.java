@@ -21,7 +21,7 @@ import java.util.List;
 @CrossOrigin(origins = "*", maxAge = 3600)
 @RestController
 public class FileController {
-    private static final String path = "/home/user/Desktop/files/";
+    private static final String path = "C:/Users/hp/Desktop/files/";
 
     @Autowired
    public UploadDownloadService service;

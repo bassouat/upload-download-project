@@ -15,7 +15,7 @@ import java.util.Objects;
 @Service
 public class UploadDownloadService {
 
-    private static final String path="/home/user/Desktop/files";
+    private static final String path="C:/Users/hp/Desktop/files";
 
    public List<String> upLoadFile(MultipartFile file) throws Exception{
 
