@@ -1,7 +1,6 @@
 package com.trainingfactory.fileuploaddownloadproject.controller;
 
 import com.trainingfactory.fileuploaddownloadproject.service.UploadDownloadService;
-import jakarta.annotation.Resource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ByteArrayResource;
 import org.springframework.http.HttpHeaders;
